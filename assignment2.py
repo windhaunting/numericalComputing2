@@ -36,7 +36,6 @@ class Course:
 
 def find_roots(a,b,c):
     ## Add code here ##
-    #return []
     a = np.float128(a)
     b = np.float128(b)
     c = np.float128(c)
